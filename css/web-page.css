@@ -1,0 +1,196 @@
+body{
+  background-color: #bffcd2;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #295939;
+  font-weight: 800;
+  position: relative;
+  top: 80px;
+}
+h2{
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 2.5rem;
+  color: #660000;
+}
+h3{
+  color: #002080;
+  font-size: 1.5rem;
+}
+hr{
+  border: none;
+  border-top: dotted;
+  border-width: 10px;
+  width: 5%;
+  color:grey;
+  position: relative;
+  top: 100px;
+}
+p{
+  font-family: 'Karla', sans-serif;
+  font-size: 1.3rem;
+}
+.bottom-cloud{
+  position: absolute;
+  top: auto;
+  left: auto;
+}
+.bottommost-cloud{
+  position: absolute;
+  right: 100px;
+}
+.bottom-container{
+  background-color: #0f8a36;
+  position: relative;
+  top: 20px;
+  height: 0;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #3e8e41;
+  border-radius: 10px;
+  font-weight: bold;
+  font-family: serif;
+  font-size: 1.2rem;
+}
+.button:hover {
+  background-color: #8cd98c;
+  color: #194d19;
+  font-weight: bold;
+}
+.contact{
+  position: relative;
+
+}
+.contact-me{
+  width: 40%;
+  position: relative;
+  left: 380px;
+  top: 120px;
+}
+.copyright{
+  color: #992600;
+  position: relative;
+  bottom: 10px;
+  font-weight: bold;
+  font-size: .75rem;
+}
+.cricket{
+  width: 12%;
+  float: right;
+  position: relative;
+  right: 230px;
+  top: 30px;
+  margin-left: 10px;
+}
+.crickets{
+  width: 480px;
+  height: 200px;
+  text-align: left;
+  position: relative;
+  left: 400px;
+  top: 30px;
+}
+.first-hr{
+  position: relative;
+  top: 30px;
+}
+.footer-link1{
+  position: relative;
+  right: 20px;
+}
+.footer-link2{
+  position: relative;
+  left: 20px;
+}
+.footer-link3{
+  position: relative;
+  left: 50px;
+}
+.linkedin{
+  background-color: #2867B2;
+}
+.linkedin:hover{
+  background-color: #8cd98c;
+  color: #2867B2;
+  font-weight: bold;
+}
+.middle-container{
+  background-color: #ccffdd;
+  padding: 130px;
+}
+.mountain{
+  position: relative;
+  top: 29px;
+}
+.personal{
+  width: 12%;
+}
+.profile{
+  line-height: 1.5;
+}
+.program{
+  width: 12%;
+  float: left;
+  position: relative;
+  left: 350px;
+  top: 35px;
+}
+.programs{
+  width: 600px;
+  height: 200px;
+  text-align: left;
+  position: relative;
+  left: 380px;
+  top: 30px;
+}
+.programmer{
+  position: relative;
+  top: 50px;
+}
+.Skills{
+  position: relative;
+  top: 50px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 150px;
+}
+.topest-cloud{
+  position: absolute;
+  bottom: 600px;
+  right: 700px;
+}
+.topmost-cloud{
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+.top-container{
+  background-color: #bffcd2;
+  padding: 24px;
+}
+.Twitter{
+  background-color: #1DA1F2;
+}
+.Twitter:hover{
+  background-color: #8cd98c;
+  color: #1DA1F2;
+  font-weight: bold;
+}
+.website:hover{
+  background-color: #8cd98c;
+  font-weight: bold;
+}
